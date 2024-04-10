@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c5905c1.css",
+    "main.js": "/static/js/main.9e045d23.js",
+    "static/media/motif-rayures-blanches-abstraites-fond-textile-rouge.jpg": "/static/media/motif-rayures-blanches-abstraites-fond-textile-rouge.53025f5b5b2b49fa531c.jpg",
+    "static/media/giphy.gif": "/static/media/giphy.d87bfe26f1234aba1847.gif",
+    "static/media/giphy (1).gif": "/static/media/giphy (1).bbd2ffa76dd0f115fce8.gif",
+    "static/media/Jessy.gif": "/static/media/Jessy.c0be1a42627309f7c9fa.gif",
+    "static/media/John.gif": "/static/media/John.d8318fd1df81e345042a.gif",
+    "static/media/logo.gif": "/static/media/logo.1c35c7c7a0fd2f86bfff.gif",
+    "static/media/Jack.gif": "/static/media/Jack.99e8ec5f350281b59cf2.gif",
+    "static/media/Negar.gif": "/static/media/Negar.f7fcd60c76483687f2e3.gif",
+    "static/media/fond-texture-abstrait-blanc_23-2148624439.jpg": "/static/media/fond-texture-abstrait-blanc_23-2148624439.388fc58150780382c986.jpg",
+    "static/media/giphy (2).gif": "/static/media/giphy (2).db066ae9432b91516385.gif",
+    "static/media/MHRise-Bullfango_Render_001.webp": "/static/media/MHRise-Bullfango_Render_001.5109e7764a7f7d66c03b.webp",
+    "static/media/Cephalos.webp": "/static/media/Cephalos.ba419cb7126d4c859b26.webp",
+    "index.html": "/index.html",
+    "main.9c5905c1.css.map": "/static/css/main.9c5905c1.css.map",
+    "main.9e045d23.js.map": "/static/js/main.9e045d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5905c1.css",
+    "static/js/main.9e045d23.js"
+  ]
+}
